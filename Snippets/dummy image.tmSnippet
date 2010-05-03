@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;img src="${1:http://dummyimage.com/}${2:$TM_SELECTED_TEXT}/" alt="${3:Placeholder Image}" /&gt;</string>
+	<key>keyEquivalent</key>
+	<string>@I</string>
+	<key>name</key>
+	<string>dummy image</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>CACAFF74-6F9A-4247-9221-7DE68B540FDC</string>
+</dict>
+</plist>
