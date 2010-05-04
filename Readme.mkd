@@ -5,7 +5,7 @@ DummyImage.com TextMate Bundle
 
 Here it is in action:   
 
-![DummyImage Example](http://dummyimage.com/325x80/000/848484)
+![DummyImage Example](http://dummyimage.com/325x80/848484/fff)
 
 
 [KennethReitz](http://github.com/kennethreitz) and [mikeXocon](http://github.com/mikexocon) got tired of going to the website, so they build this simple TextMate Bundle for your snippet pleasure.
