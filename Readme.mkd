@@ -1,7 +1,8 @@
 DummyImage.com TextMate Bundle
 ==============================
 
-[DummyImage](http://dummyimage.com) is an awesome service for quickly adding filler images to your wireframes and site mockups.    [KennethReitz](http://github.com/kennethreitz) and [mikeXocon](http://github.com/mikexocon) got tired of going to the website 
+[DummyImage](http://dummyimage.com) is an awesome service for quickly adding filler images to your wireframes and site mockups.   
+[KennethReitz](http://github.com/kennethreitz) and [mikeXocon](http://github.com/mikexocon) got tired of going to the website 
 
 Installation
 ------------
