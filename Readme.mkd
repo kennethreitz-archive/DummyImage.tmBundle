@@ -20,5 +20,6 @@ Usage
 
 Just hit `dimg⇥` and you're golden :)
 
-### Legal Jank
+Legal Jank
+----------
 Copyright 2010 Kenneth Reitz and Mike X O'Connell.
