@@ -1,0 +1,21 @@
+DummyImage.com TextMate Bundle
+==============================
+
+[DummyImage](http://dummyimage.com) is an awesome service for quickly adding filler images to your wireframes and site mockups. [kennethreitz](http://github.com/kennethreitz) and [mikexocon](http://github.com/mikexocon) got tired of going to the website 
+
+Installation
+------------
+
+	mkdir -d ~/Library/Application\ Support/TextMate/Bundles
+	cd $!
+	git clone git://github.com/kennethreitz/DummyImage.tmBundle.git
+	osascript -e 'tell app "TextMate" to reload bundles'
+
+
+Usage
+-----
+
+Just hit `dimg⇥` and you're golden :)
+
+### Legal Jank
+Copyright 2010 Kenneth Reitz and Mike X O'Connell.
