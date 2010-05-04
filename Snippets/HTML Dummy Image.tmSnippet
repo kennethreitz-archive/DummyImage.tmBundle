@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;img src="${1:http://dummyimage.com/}${2:$TM_SELECTED_TEXT}/" alt="${3:Placeholder Image}" /&gt;</string>
-	<key>keyEquivalent</key>
-	<string>@I</string>
+	<string>&lt;img src="http://dummyimage.com/${1:240}x${2:320}/${4:000}/${3:fff}" width=$1 height=$2 alt="dummmy"/&gt;</string>
 	<key>name</key>
-	<string>Convert to DummyImage</string>
+	<string>HTML Dummy Image</string>
 	<key>scope</key>
 	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>dimg</string>
 	<key>uuid</key>
-	<string>CACAFF74-6F9A-4247-9221-7DE68B540FDC</string>
+	<string>06F1B362-E6B9-4C53-A85D-E39262401657</string>
 </dict>
 </plist>

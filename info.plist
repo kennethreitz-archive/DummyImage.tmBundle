@@ -3,10 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Dummy Image</string>
+	<string>DummyImage</string>
 	<key>ordering</key>
 	<array>
 		<string>CACAFF74-6F9A-4247-9221-7DE68B540FDC</string>
+		<string>06F1B362-E6B9-4C53-A85D-E39262401657</string>
+		<string>E8126264-B84C-4A17-96A2-52280D87E4C2</string>
 	</array>
 	<key>uuid</key>
 	<string>63CDCCD5-C2CD-4E73-A3DA-725158110618</string>
