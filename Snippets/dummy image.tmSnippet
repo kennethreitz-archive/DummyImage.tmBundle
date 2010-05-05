@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;img src="${1:http://dummyimage.com/}${2:$TM_SELECTED_TEXT}/" alt="${3:Placeholder Image}" /&gt;</string>
+	<string>&lt;img src="http://dummyimage.com/${1:$TM_SELECTED_TEXT}/" alt="dummy" /&gt;</string>
 	<key>keyEquivalent</key>
 	<string>@I</string>
 	<key>name</key>
