@@ -3,7 +3,7 @@ DummyImage.com TextMate Bundle
 
 [DummyImage](http://dummyimage.com) is an awesome service for quickly adding filler images to your wireframes and site mockups.   
 
-Here it is in action:   
+*Here it is in action:*   
 
 ![DummyImage Example](http://dummyimage.com/325x80/4E4E4E/fff)
 
