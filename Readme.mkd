@@ -10,14 +10,16 @@ DummyImage.com TextMate Bundle
 
 [KennethReitz](http://github.com/kennethreitz) and [mikeXocon](http://github.com/mikexocon) got tired of going to the website, so they build this simple TextMate Bundle for your snippet pleasure.
 
+Modified by [Aziz Light](http://github.com/AzizLight).
+
 Enjoy!
 
 Installation
 ------------
 
-	mkdir -p ~/Library/Application\ Support/TextMate/Bundles
-	cd !$
-	git clone git://github.com/kennethreitz/DummyImage.tmBundle.git
+	mkdir -p ~/Library/Application\ Support/TextMate/Bundles && \
+	cd ~/Library/Application\ Support/TextMate/Bundles && \
+	git clone git://github.com/AzizLight/DummyImage.tmBundle.git && \
 	osascript -e 'tell app "TextMate" to reload bundles'
 
 
@@ -28,4 +30,4 @@ Just hit `dimg⇥` and you're golden :)
 
 Legal Jank
 ----------
-Copyright 2010 Kenneth Reitz and Mike X O'Connell.
+Copyright 2010 Kenneth Reitz and Mike X O'Connell... and Aziz Light?
