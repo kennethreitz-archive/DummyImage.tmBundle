@@ -5,9 +5,7 @@
 	<key>content</key>
 	<string>http://dummyimage.com/${1:240}x${2:320}/${3:000}/${4:fff}</string>
 	<key>name</key>
-	<string>CSS Dummy Image</string>
-	<key>scope</key>
-	<string>source.css, text.html.css</string>
+	<string>DummyImage Link</string>
 	<key>tabTrigger</key>
 	<string>dimg</string>
 	<key>uuid</key>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env php
+&lt;?php
+$title = urlencode($_ENV[TM_SELECTED_TEXT]);
+
+echo 'http://dummyimage.com/${1:100}${2:x${3:200}}${4:/${5:000}}${6:/${7:fff}}${8:.${9:gif}}&amp;text=' . $title;
+?&gt;</string>
+	<key>fallbackInput</key>
+	<string>none</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>keyEquivalent</key>
+	<string>^I</string>
+	<key>name</key>
+	<string>Convert to DummyImage Link</string>
+	<key>output</key>
+	<string>insertAsSnippet</string>
+	<key>uuid</key>
+	<string>B79A7D20-E3AA-4F78-9D46-9E3B6A9C5753</string>
+</dict>
+</plist>
