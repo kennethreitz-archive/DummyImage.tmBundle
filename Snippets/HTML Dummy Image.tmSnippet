@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;img src="http://dummyimage.com/${1:240}x${2:320}/${3:000}/${4:fff}" width=$1 height=$2 alt="dummmy" /&gt;</string>
+	<string>&lt;img src="http://dummyimage.com/${1:240}x${2:320}/${3:000}/${4:fff}.png&text=${5:Text}" width=$1 height=$2 alt="dummy" /&gt;</string>
 	<key>name</key>
 	<string>HTML Dummy Image</string>
 	<key>scope</key>
