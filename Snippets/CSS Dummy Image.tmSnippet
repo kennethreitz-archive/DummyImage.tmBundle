@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>http://dummyimage.com/${1:240}x${2:320}/${3:000}/${4:fff}</string>
+	<string>http://dummyimage.com/${1:240}x${2:320}/${3:000}/${4:fff}.png&text=${5:Text}</string>
 	<key>name</key>
 	<string>DummyImage Link</string>
 	<key>tabTrigger</key>
